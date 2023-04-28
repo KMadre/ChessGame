@@ -1,0 +1,283 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PA9 Group.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bishop.cpp
+  King.cpp
+  Knight.cpp
+  main.cpp
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(146,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(147,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(156,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(157,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(166,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(167,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(176,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(177,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(186,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(187,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(196,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(197,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(206,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(207,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(216,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(217,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(226,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(227,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(236,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(237,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(246,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(247,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(256,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(257,27): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(471,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(471,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(490,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(490,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(495,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(495,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(500,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(500,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(538,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(538,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(545,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(545,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(552,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(552,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(558,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(558,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(564,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(564,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(570,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(570,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(576,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(576,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(582,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(582,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(588,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(588,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(594,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(594,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(600,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(600,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(606,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(606,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(612,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(612,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(618,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(618,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(68,36): warning C4101: 'blackKing': unreferenced local variable
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(68,25): warning C4101: 'whiteKing': unreferenced local variable
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(68,17): warning C4101: 'newPoz': unreferenced local variable
+C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\PA9 Group\main.cpp(318,10): warning C4101: 'ok': unreferenced local variable
+  Pawn.cpp
+  Pieces.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+  PA9 Group.vcxproj -> C:\Users\kiera\Desktop\Github\ChessGame\PA9 Group All TAs\Debug\ChessGame.exe
